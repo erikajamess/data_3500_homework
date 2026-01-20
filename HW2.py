@@ -46,9 +46,9 @@ else:
 a = 1024
 b = 10 
 if a % 4 == 0 and b % 2 == 0:
-    ##print('nice.')
+    print('nice.')
 
 #2.8
-print('Number\tSquare\tCube"')
+print('Number\tSquare\tCube')
 for i in range(6):
     print(i, '\t', i**2, '\t', i**3)
