@@ -17,6 +17,7 @@ while num > 0:
     # Remove the rightmost digit
     num = num // 10
 
+#3.11
 total_miles = 0
 total_gallons = 0
 
@@ -65,8 +66,7 @@ else:
 
 #3.14
 # Some parts of this code were written with the help of ChatGPT.
-# I used it to better understand the formatting and calculations
-
+# I used it to better understand the formatting and calculations that i did not fully understand from the prompt
 
 
 #how many iterations we will have
@@ -92,12 +92,12 @@ for i in range(1, MAX_ITERS + 1):
     term = sign * (4 / denom)
     # Add term to our running total
     pi_approx += term
-    # Flip the sign for the next iteration (+ then - then + then - ...)
+    # Flip the sign for the next iteration
     sign *= -1
     # Increase denominator by 2 to get the next odd number
     denom += 2
 
-    # Convert to strings the SAME way print formatting would (this rounds)
+    # Convert to strings the SAME way print formatting would
     pi_2dp = f"{pi_approx:.2f}"
     pi_3dp = f"{pi_approx:.3f}"
 
@@ -110,14 +110,14 @@ for i in range(1, MAX_ITERS + 1):
         if count_314 == 2 and second_time_314 is None:
             second_time_314 = i
 
-    # ---- Track when 3.141 appears (to 3 decimals) ----
+#  Track when 3.141 appears (to 3 decimals)
     if pi_3dp == "3.141":
         count_3141 += 1
         # If this is the second time we've seen it, record the iteration
         if count_3141 == 2 and second_time_3141 is None:
             second_time_3141 = i
 
-# After the loop, print out what we found.
+# After the loop, print out what we found
 print("\nSummary:")
 print(f"2nd time pi shows as 3.14 (2 decimals in our iterations:{second_time_314}")
 print(f"2nd time pi shows as 3.141 (3 decimals in our iterations: {second_time_3141}")
