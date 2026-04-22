@@ -79,15 +79,15 @@ try:
             combined_df = combined_df.drop_duplicates(
                 subset=["record_date", "transaction_type", "transaction_catg", "transaction_today_amt"]
             )
+            df = combined_df
 
             # sort by date in descending order
-            combined_df = combined_df.sort_values(by="record_date", ascending=False)
+            df = df.sort_values(by="record_date", ascending=False)
 
             # save updated csv to the original file, we set index to false because we don't need the old index numbers from the original csv and we want to create new ones for the combined data
-            combined_df.to_csv(csv_file, index=False)
+            df.to_csv(csv_file, index=False)
 
             print("CSV updated successfully.")
-            print("New rows added:", len(combined_df) - len(df))
 
         else:
             print("No new rows were returned from the API.")
@@ -141,6 +141,7 @@ except FileNotFoundError:
     print("CSV created successfully.")
     print("Total rows:", len(df))
 
+
 # start of the analysis, AI was used to help me decide what analysis to perform and to help me write the code for the analysis. 
 '''
 This analysis examines daily U.S. Treasury cash activity by looking at deposits and withdrawals over time. It first summarizes the dataset by showing the number of records and the date range covered. It then calculates the average transaction amount to understand the typical size of cash movements. The analysis also compares total deposits and withdrawals to determine whether more money is entering or leaving the Treasury overall. Finally, it groups transactions by date to show how activity changes over time, helping identify patterns or spikes in cash flow. Overall, this analysis provides insight into short-term Treasury cash trends and whether there are net inflows or outflows.
@@ -166,10 +167,7 @@ daily = df.groupby("record_date")["transaction_today_amt"].sum().reset_index()
 daily["record_date"] = daily["record_date"].dt.strftime("%Y-%m-%d")
 results["daily_totals"] = daily.to_dict(orient="records")
 
-# check to see if the json file already exists, if it does then we will overwrite it with the new results, if it doesn't then we will create it and save the results there.
-try:
-    with open(json_file, "r") as f:
-        data = json.load(f)
-    print("results.json exists and is readable.")
-except:
-    print("Error: results.json does not exist or is not readable.")
+# save results to json file
+with open(json_file, "w") as f:
+    json.dump(results, f, indent=4)
+print("results.json created/updated")
