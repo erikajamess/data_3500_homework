@@ -1,0 +1,2324 @@
+{
+    "summary": {
+        "total_rows": 104619,
+        "start_date": "2024-01-02",
+        "end_date": "2026-04-20"
+    },
+    "average_amount": 3244.82096942238,
+    "totals_by_type": [
+        {
+            "transaction_type": "Deposits",
+            "transaction_today_amt": 170004311
+        },
+        {
+            "transaction_type": "Withdrawals",
+            "transaction_today_amt": 169465614
+        }
+    ],
+    "daily_totals": [
+        {
+            "record_date": "2024-01-02",
+            "transaction_today_amt": 1801694
+        },
+        {
+            "record_date": "2024-01-03",
+            "transaction_today_amt": 111427
+        },
+        {
+            "record_date": "2024-01-04",
+            "transaction_today_amt": 951732
+        },
+        {
+            "record_date": "2024-01-05",
+            "transaction_today_amt": 69248
+        },
+        {
+            "record_date": "2024-01-08",
+            "transaction_today_amt": 101079
+        },
+        {
+            "record_date": "2024-01-09",
+            "transaction_today_amt": 933125
+        },
+        {
+            "record_date": "2024-01-10",
+            "transaction_today_amt": 125682
+        },
+        {
+            "record_date": "2024-01-11",
+            "transaction_today_amt": 1095993
+        },
+        {
+            "record_date": "2024-01-12",
+            "transaction_today_amt": 108322
+        },
+        {
+            "record_date": "2024-01-16",
+            "transaction_today_amt": 1560774
+        },
+        {
+            "record_date": "2024-01-17",
+            "transaction_today_amt": 127428
+        },
+        {
+            "record_date": "2024-01-18",
+            "transaction_today_amt": 956727
+        },
+        {
+            "record_date": "2024-01-19",
+            "transaction_today_amt": 78121
+        },
+        {
+            "record_date": "2024-01-22",
+            "transaction_today_amt": 121376
+        },
+        {
+            "record_date": "2024-01-23",
+            "transaction_today_amt": 953222
+        },
+        {
+            "record_date": "2024-01-24",
+            "transaction_today_amt": 153878
+        },
+        {
+            "record_date": "2024-01-25",
+            "transaction_today_amt": 1115113
+        },
+        {
+            "record_date": "2024-01-26",
+            "transaction_today_amt": 65472
+        },
+        {
+            "record_date": "2024-01-29",
+            "transaction_today_amt": 99197
+        },
+        {
+            "record_date": "2024-01-30",
+            "transaction_today_amt": 967812
+        },
+        {
+            "record_date": "2024-01-31",
+            "transaction_today_amt": 976947
+        },
+        {
+            "record_date": "2024-02-01",
+            "transaction_today_amt": 1205603
+        },
+        {
+            "record_date": "2024-02-02",
+            "transaction_today_amt": 121841
+        },
+        {
+            "record_date": "2024-02-05",
+            "transaction_today_amt": 97894
+        },
+        {
+            "record_date": "2024-02-06",
+            "transaction_today_amt": 987618
+        },
+        {
+            "record_date": "2024-02-07",
+            "transaction_today_amt": 69980
+        },
+        {
+            "record_date": "2024-02-08",
+            "transaction_today_amt": 965599
+        },
+        {
+            "record_date": "2024-02-09",
+            "transaction_today_amt": 52559
+        },
+        {
+            "record_date": "2024-02-12",
+            "transaction_today_amt": 91437
+        },
+        {
+            "record_date": "2024-02-13",
+            "transaction_today_amt": 991743
+        },
+        {
+            "record_date": "2024-02-14",
+            "transaction_today_amt": 129343
+        },
+        {
+            "record_date": "2024-02-15",
+            "transaction_today_amt": 1678382
+        },
+        {
+            "record_date": "2024-02-16",
+            "transaction_today_amt": 102806
+        },
+        {
+            "record_date": "2024-02-20",
+            "transaction_today_amt": 1066880
+        },
+        {
+            "record_date": "2024-02-21",
+            "transaction_today_amt": 118212
+        },
+        {
+            "record_date": "2024-02-22",
+            "transaction_today_amt": 1268973
+        },
+        {
+            "record_date": "2024-02-23",
+            "transaction_today_amt": 137074
+        },
+        {
+            "record_date": "2024-02-26",
+            "transaction_today_amt": 99587
+        },
+        {
+            "record_date": "2024-02-27",
+            "transaction_today_amt": 1018686
+        },
+        {
+            "record_date": "2024-02-28",
+            "transaction_today_amt": 148497
+        },
+        {
+            "record_date": "2024-02-29",
+            "transaction_today_amt": 1685830
+        },
+        {
+            "record_date": "2024-03-01",
+            "transaction_today_amt": 349460
+        },
+        {
+            "record_date": "2024-03-04",
+            "transaction_today_amt": 116078
+        },
+        {
+            "record_date": "2024-03-05",
+            "transaction_today_amt": 1030118
+        },
+        {
+            "record_date": "2024-03-06",
+            "transaction_today_amt": 94861
+        },
+        {
+            "record_date": "2024-03-07",
+            "transaction_today_amt": 939594
+        },
+        {
+            "record_date": "2024-03-08",
+            "transaction_today_amt": 70218
+        },
+        {
+            "record_date": "2024-03-11",
+            "transaction_today_amt": 108580
+        },
+        {
+            "record_date": "2024-03-12",
+            "transaction_today_amt": 1031755
+        },
+        {
+            "record_date": "2024-03-13",
+            "transaction_today_amt": 141896
+        },
+        {
+            "record_date": "2024-03-14",
+            "transaction_today_amt": 966464
+        },
+        {
+            "record_date": "2024-03-15",
+            "transaction_today_amt": 483977
+        },
+        {
+            "record_date": "2024-03-18",
+            "transaction_today_amt": 157086
+        },
+        {
+            "record_date": "2024-03-19",
+            "transaction_today_amt": 1038433
+        },
+        {
+            "record_date": "2024-03-20",
+            "transaction_today_amt": 136897
+        },
+        {
+            "record_date": "2024-03-21",
+            "transaction_today_amt": 1115972
+        },
+        {
+            "record_date": "2024-03-22",
+            "transaction_today_amt": 72400
+        },
+        {
+            "record_date": "2024-03-25",
+            "transaction_today_amt": 96296
+        },
+        {
+            "record_date": "2024-03-26",
+            "transaction_today_amt": 1006080
+        },
+        {
+            "record_date": "2024-03-27",
+            "transaction_today_amt": 147540
+        },
+        {
+            "record_date": "2024-03-28",
+            "transaction_today_amt": 959079
+        },
+        {
+            "record_date": "2024-03-29",
+            "transaction_today_amt": 102503
+        },
+        {
+            "record_date": "2024-04-01",
+            "transaction_today_amt": 1038955
+        },
+        {
+            "record_date": "2024-04-02",
+            "transaction_today_amt": 1000922
+        },
+        {
+            "record_date": "2024-04-03",
+            "transaction_today_amt": 138605
+        },
+        {
+            "record_date": "2024-04-04",
+            "transaction_today_amt": 938336
+        },
+        {
+            "record_date": "2024-04-05",
+            "transaction_today_amt": 66927
+        },
+        {
+            "record_date": "2024-04-08",
+            "transaction_today_amt": 103016
+        },
+        {
+            "record_date": "2024-04-09",
+            "transaction_today_amt": 972753
+        },
+        {
+            "record_date": "2024-04-10",
+            "transaction_today_amt": 163790
+        },
+        {
+            "record_date": "2024-04-11",
+            "transaction_today_amt": 980533
+        },
+        {
+            "record_date": "2024-04-12",
+            "transaction_today_amt": 199313
+        },
+        {
+            "record_date": "2024-04-15",
+            "transaction_today_amt": 887826
+        },
+        {
+            "record_date": "2024-04-16",
+            "transaction_today_amt": 1070633
+        },
+        {
+            "record_date": "2024-04-17",
+            "transaction_today_amt": 246541
+        },
+        {
+            "record_date": "2024-04-18",
+            "transaction_today_amt": 1156877
+        },
+        {
+            "record_date": "2024-04-19",
+            "transaction_today_amt": 86333
+        },
+        {
+            "record_date": "2024-04-22",
+            "transaction_today_amt": 138284
+        },
+        {
+            "record_date": "2024-04-23",
+            "transaction_today_amt": 1008250
+        },
+        {
+            "record_date": "2024-04-24",
+            "transaction_today_amt": 163705
+        },
+        {
+            "record_date": "2024-04-25",
+            "transaction_today_amt": 976405
+        },
+        {
+            "record_date": "2024-04-26",
+            "transaction_today_amt": 91071
+        },
+        {
+            "record_date": "2024-04-29",
+            "transaction_today_amt": 118430
+        },
+        {
+            "record_date": "2024-04-30",
+            "transaction_today_amt": 1921774
+        },
+        {
+            "record_date": "2024-05-01",
+            "transaction_today_amt": 323757
+        },
+        {
+            "record_date": "2024-05-02",
+            "transaction_today_amt": 980100
+        },
+        {
+            "record_date": "2024-05-03",
+            "transaction_today_amt": 126688
+        },
+        {
+            "record_date": "2024-05-06",
+            "transaction_today_amt": 86173
+        },
+        {
+            "record_date": "2024-05-07",
+            "transaction_today_amt": 915427
+        },
+        {
+            "record_date": "2024-05-08",
+            "transaction_today_amt": 127474
+        },
+        {
+            "record_date": "2024-05-09",
+            "transaction_today_amt": 956619
+        },
+        {
+            "record_date": "2024-05-10",
+            "transaction_today_amt": 72040
+        },
+        {
+            "record_date": "2024-05-13",
+            "transaction_today_amt": 92551
+        },
+        {
+            "record_date": "2024-05-14",
+            "transaction_today_amt": 941853
+        },
+        {
+            "record_date": "2024-05-15",
+            "transaction_today_amt": 867344
+        },
+        {
+            "record_date": "2024-05-16",
+            "transaction_today_amt": 1165381
+        },
+        {
+            "record_date": "2024-05-17",
+            "transaction_today_amt": 59382
+        },
+        {
+            "record_date": "2024-05-20",
+            "transaction_today_amt": 78462
+        },
+        {
+            "record_date": "2024-05-21",
+            "transaction_today_amt": 929692
+        },
+        {
+            "record_date": "2024-05-22",
+            "transaction_today_amt": 155774
+        },
+        {
+            "record_date": "2024-05-23",
+            "transaction_today_amt": 951011
+        },
+        {
+            "record_date": "2024-05-24",
+            "transaction_today_amt": 63557
+        },
+        {
+            "record_date": "2024-05-28",
+            "transaction_today_amt": 974686
+        },
+        {
+            "record_date": "2024-05-29",
+            "transaction_today_amt": 61623
+        },
+        {
+            "record_date": "2024-05-30",
+            "transaction_today_amt": 950856
+        },
+        {
+            "record_date": "2024-05-31",
+            "transaction_today_amt": 1058899
+        },
+        {
+            "record_date": "2024-06-03",
+            "transaction_today_amt": 203856
+        },
+        {
+            "record_date": "2024-06-04",
+            "transaction_today_amt": 878895
+        },
+        {
+            "record_date": "2024-06-05",
+            "transaction_today_amt": 72057
+        },
+        {
+            "record_date": "2024-06-06",
+            "transaction_today_amt": 885554
+        },
+        {
+            "record_date": "2024-06-07",
+            "transaction_today_amt": 70296
+        },
+        {
+            "record_date": "2024-06-10",
+            "transaction_today_amt": 101278
+        },
+        {
+            "record_date": "2024-06-11",
+            "transaction_today_amt": 912668
+        },
+        {
+            "record_date": "2024-06-12",
+            "transaction_today_amt": 140446
+        },
+        {
+            "record_date": "2024-06-13",
+            "transaction_today_amt": 1081357
+        },
+        {
+            "record_date": "2024-06-14",
+            "transaction_today_amt": 153499
+        },
+        {
+            "record_date": "2024-06-17",
+            "transaction_today_amt": 633211
+        },
+        {
+            "record_date": "2024-06-18",
+            "transaction_today_amt": 971817
+        },
+        {
+            "record_date": "2024-06-20",
+            "transaction_today_amt": 946462
+        },
+        {
+            "record_date": "2024-06-21",
+            "transaction_today_amt": 118041
+        },
+        {
+            "record_date": "2024-06-24",
+            "transaction_today_amt": 116846
+        },
+        {
+            "record_date": "2024-06-25",
+            "transaction_today_amt": 922858
+        },
+        {
+            "record_date": "2024-06-26",
+            "transaction_today_amt": 134753
+        },
+        {
+            "record_date": "2024-06-27",
+            "transaction_today_amt": 902977
+        },
+        {
+            "record_date": "2024-06-28",
+            "transaction_today_amt": 184010
+        },
+        {
+            "record_date": "2024-07-01",
+            "transaction_today_amt": 1032727
+        },
+        {
+            "record_date": "2024-07-02",
+            "transaction_today_amt": 915507
+        },
+        {
+            "record_date": "2024-07-03",
+            "transaction_today_amt": 124911
+        },
+        {
+            "record_date": "2024-07-05",
+            "transaction_today_amt": 943429
+        },
+        {
+            "record_date": "2024-07-08",
+            "transaction_today_amt": 94736
+        },
+        {
+            "record_date": "2024-07-09",
+            "transaction_today_amt": 938445
+        },
+        {
+            "record_date": "2024-07-10",
+            "transaction_today_amt": 117772
+        },
+        {
+            "record_date": "2024-07-11",
+            "transaction_today_amt": 1103432
+        },
+        {
+            "record_date": "2024-07-12",
+            "transaction_today_amt": 61671
+        },
+        {
+            "record_date": "2024-07-15",
+            "transaction_today_amt": 666782
+        },
+        {
+            "record_date": "2024-07-16",
+            "transaction_today_amt": 976894
+        },
+        {
+            "record_date": "2024-07-17",
+            "transaction_today_amt": 116908
+        },
+        {
+            "record_date": "2024-07-18",
+            "transaction_today_amt": 905073
+        },
+        {
+            "record_date": "2024-07-19",
+            "transaction_today_amt": 66944
+        },
+        {
+            "record_date": "2024-07-22",
+            "transaction_today_amt": 121370
+        },
+        {
+            "record_date": "2024-07-23",
+            "transaction_today_amt": 967925
+        },
+        {
+            "record_date": "2024-07-24",
+            "transaction_today_amt": 119534
+        },
+        {
+            "record_date": "2024-07-25",
+            "transaction_today_amt": 920899
+        },
+        {
+            "record_date": "2024-07-26",
+            "transaction_today_amt": 56805
+        },
+        {
+            "record_date": "2024-07-29",
+            "transaction_today_amt": 88542
+        },
+        {
+            "record_date": "2024-07-30",
+            "transaction_today_amt": 957356
+        },
+        {
+            "record_date": "2024-07-31",
+            "transaction_today_amt": 1023417
+        },
+        {
+            "record_date": "2024-08-01",
+            "transaction_today_amt": 1174174
+        },
+        {
+            "record_date": "2024-08-02",
+            "transaction_today_amt": 120599
+        },
+        {
+            "record_date": "2024-08-05",
+            "transaction_today_amt": 91746
+        },
+        {
+            "record_date": "2024-08-06",
+            "transaction_today_amt": 976589
+        },
+        {
+            "record_date": "2024-08-07",
+            "transaction_today_amt": 67129
+        },
+        {
+            "record_date": "2024-08-08",
+            "transaction_today_amt": 1131914
+        },
+        {
+            "record_date": "2024-08-09",
+            "transaction_today_amt": 56274
+        },
+        {
+            "record_date": "2024-08-12",
+            "transaction_today_amt": 89895
+        },
+        {
+            "record_date": "2024-08-13",
+            "transaction_today_amt": 998393
+        },
+        {
+            "record_date": "2024-08-14",
+            "transaction_today_amt": 120936
+        },
+        {
+            "record_date": "2024-08-15",
+            "transaction_today_amt": 1706534
+        },
+        {
+            "record_date": "2024-08-16",
+            "transaction_today_amt": 97261
+        },
+        {
+            "record_date": "2024-08-19",
+            "transaction_today_amt": 100885
+        },
+        {
+            "record_date": "2024-08-20",
+            "transaction_today_amt": 997671
+        },
+        {
+            "record_date": "2024-08-21",
+            "transaction_today_amt": 123205
+        },
+        {
+            "record_date": "2024-08-22",
+            "transaction_today_amt": 979382
+        },
+        {
+            "record_date": "2024-08-23",
+            "transaction_today_amt": 54359
+        },
+        {
+            "record_date": "2024-08-26",
+            "transaction_today_amt": 96502
+        },
+        {
+            "record_date": "2024-08-27",
+            "transaction_today_amt": 1080091
+        },
+        {
+            "record_date": "2024-08-28",
+            "transaction_today_amt": 125311
+        },
+        {
+            "record_date": "2024-08-29",
+            "transaction_today_amt": 971324
+        },
+        {
+            "record_date": "2024-08-30",
+            "transaction_today_amt": 318918
+        },
+        {
+            "record_date": "2024-09-03",
+            "transaction_today_amt": 1867803
+        },
+        {
+            "record_date": "2024-09-04",
+            "transaction_today_amt": 61502
+        },
+        {
+            "record_date": "2024-09-05",
+            "transaction_today_amt": 1108931
+        },
+        {
+            "record_date": "2024-09-06",
+            "transaction_today_amt": 75283
+        },
+        {
+            "record_date": "2024-09-09",
+            "transaction_today_amt": 88917
+        },
+        {
+            "record_date": "2024-09-10",
+            "transaction_today_amt": 1019416
+        },
+        {
+            "record_date": "2024-09-11",
+            "transaction_today_amt": 144575
+        },
+        {
+            "record_date": "2024-09-12",
+            "transaction_today_amt": 995956
+        },
+        {
+            "record_date": "2024-09-13",
+            "transaction_today_amt": 177781
+        },
+        {
+            "record_date": "2024-09-16",
+            "transaction_today_amt": 674147
+        },
+        {
+            "record_date": "2024-09-17",
+            "transaction_today_amt": 1014169
+        },
+        {
+            "record_date": "2024-09-18",
+            "transaction_today_amt": 151744
+        },
+        {
+            "record_date": "2024-09-19",
+            "transaction_today_amt": 913846
+        },
+        {
+            "record_date": "2024-09-20",
+            "transaction_today_amt": 113879
+        },
+        {
+            "record_date": "2024-09-23",
+            "transaction_today_amt": 108898
+        },
+        {
+            "record_date": "2024-09-24",
+            "transaction_today_amt": 1013222
+        },
+        {
+            "record_date": "2024-09-25",
+            "transaction_today_amt": 154083
+        },
+        {
+            "record_date": "2024-09-26",
+            "transaction_today_amt": 937402
+        },
+        {
+            "record_date": "2024-09-27",
+            "transaction_today_amt": 138327
+        },
+        {
+            "record_date": "2024-09-30",
+            "transaction_today_amt": 837764
+        },
+        {
+            "record_date": "2024-10-01",
+            "transaction_today_amt": 1228167
+        },
+        {
+            "record_date": "2024-10-02",
+            "transaction_today_amt": 68941
+        },
+        {
+            "record_date": "2024-10-03",
+            "transaction_today_amt": 1208913
+        },
+        {
+            "record_date": "2024-10-04",
+            "transaction_today_amt": 54895
+        },
+        {
+            "record_date": "2024-10-07",
+            "transaction_today_amt": 84658
+        },
+        {
+            "record_date": "2024-10-08",
+            "transaction_today_amt": 1036225
+        },
+        {
+            "record_date": "2024-10-09",
+            "transaction_today_amt": 134104
+        },
+        {
+            "record_date": "2024-10-10",
+            "transaction_today_amt": 1005530
+        },
+        {
+            "record_date": "2024-10-11",
+            "transaction_today_amt": 79717
+        },
+        {
+            "record_date": "2024-10-15",
+            "transaction_today_amt": 1597570
+        },
+        {
+            "record_date": "2024-10-16",
+            "transaction_today_amt": 153456
+        },
+        {
+            "record_date": "2024-10-17",
+            "transaction_today_amt": 1016247
+        },
+        {
+            "record_date": "2024-10-18",
+            "transaction_today_amt": 63504
+        },
+        {
+            "record_date": "2024-10-21",
+            "transaction_today_amt": 86928
+        },
+        {
+            "record_date": "2024-10-22",
+            "transaction_today_amt": 1051193
+        },
+        {
+            "record_date": "2024-10-23",
+            "transaction_today_amt": 145886
+        },
+        {
+            "record_date": "2024-10-24",
+            "transaction_today_amt": 969366
+        },
+        {
+            "record_date": "2024-10-25",
+            "transaction_today_amt": 72325
+        },
+        {
+            "record_date": "2024-10-28",
+            "transaction_today_amt": 109083
+        },
+        {
+            "record_date": "2024-10-29",
+            "transaction_today_amt": 1029669
+        },
+        {
+            "record_date": "2024-10-30",
+            "transaction_today_amt": 80130
+        },
+        {
+            "record_date": "2024-10-31",
+            "transaction_today_amt": 2136794
+        },
+        {
+            "record_date": "2024-11-01",
+            "transaction_today_amt": 337742
+        },
+        {
+            "record_date": "2024-11-04",
+            "transaction_today_amt": 101830
+        },
+        {
+            "record_date": "2024-11-05",
+            "transaction_today_amt": 1047129
+        },
+        {
+            "record_date": "2024-11-06",
+            "transaction_today_amt": 73990
+        },
+        {
+            "record_date": "2024-11-07",
+            "transaction_today_amt": 1006581
+        },
+        {
+            "record_date": "2024-11-08",
+            "transaction_today_amt": 75838
+        },
+        {
+            "record_date": "2024-11-12",
+            "transaction_today_amt": 1091931
+        },
+        {
+            "record_date": "2024-11-13",
+            "transaction_today_amt": 136548
+        },
+        {
+            "record_date": "2024-11-14",
+            "transaction_today_amt": 1047509
+        },
+        {
+            "record_date": "2024-11-15",
+            "transaction_today_amt": 863043
+        },
+        {
+            "record_date": "2024-11-18",
+            "transaction_today_amt": 111749
+        },
+        {
+            "record_date": "2024-11-19",
+            "transaction_today_amt": 1050723
+        },
+        {
+            "record_date": "2024-11-20",
+            "transaction_today_amt": 125465
+        },
+        {
+            "record_date": "2024-11-21",
+            "transaction_today_amt": 1124224
+        },
+        {
+            "record_date": "2024-11-22",
+            "transaction_today_amt": 97035
+        },
+        {
+            "record_date": "2024-11-25",
+            "transaction_today_amt": 111162
+        },
+        {
+            "record_date": "2024-11-26",
+            "transaction_today_amt": 1138658
+        },
+        {
+            "record_date": "2024-11-27",
+            "transaction_today_amt": 141746
+        },
+        {
+            "record_date": "2024-11-29",
+            "transaction_today_amt": 1480728
+        },
+        {
+            "record_date": "2024-12-02",
+            "transaction_today_amt": 853606
+        },
+        {
+            "record_date": "2024-12-03",
+            "transaction_today_amt": 1113377
+        },
+        {
+            "record_date": "2024-12-04",
+            "transaction_today_amt": 77039
+        },
+        {
+            "record_date": "2024-12-05",
+            "transaction_today_amt": 978372
+        },
+        {
+            "record_date": "2024-12-06",
+            "transaction_today_amt": 78931
+        },
+        {
+            "record_date": "2024-12-09",
+            "transaction_today_amt": 100055
+        },
+        {
+            "record_date": "2024-12-10",
+            "transaction_today_amt": 1078049
+        },
+        {
+            "record_date": "2024-12-11",
+            "transaction_today_amt": 156567
+        },
+        {
+            "record_date": "2024-12-12",
+            "transaction_today_amt": 982221
+        },
+        {
+            "record_date": "2024-12-13",
+            "transaction_today_amt": 120191
+        },
+        {
+            "record_date": "2024-12-16",
+            "transaction_today_amt": 610306
+        },
+        {
+            "record_date": "2024-12-17",
+            "transaction_today_amt": 1014318
+        },
+        {
+            "record_date": "2024-12-18",
+            "transaction_today_amt": 140155
+        },
+        {
+            "record_date": "2024-12-19",
+            "transaction_today_amt": 954850
+        },
+        {
+            "record_date": "2024-12-20",
+            "transaction_today_amt": 120805
+        },
+        {
+            "record_date": "2024-12-23",
+            "transaction_today_amt": 137866
+        },
+        {
+            "record_date": "2024-12-24",
+            "transaction_today_amt": 1061314
+        },
+        {
+            "record_date": "2024-12-26",
+            "transaction_today_amt": 1241336
+        },
+        {
+            "record_date": "2024-12-27",
+            "transaction_today_amt": 142490
+        },
+        {
+            "record_date": "2024-12-30",
+            "transaction_today_amt": 126178
+        },
+        {
+            "record_date": "2024-12-31",
+            "transaction_today_amt": 1872207
+        },
+        {
+            "record_date": "2025-01-02",
+            "transaction_today_amt": 1237802
+        },
+        {
+            "record_date": "2025-01-03",
+            "transaction_today_amt": 129785
+        },
+        {
+            "record_date": "2025-01-06",
+            "transaction_today_amt": 116975
+        },
+        {
+            "record_date": "2025-01-07",
+            "transaction_today_amt": 1008901
+        },
+        {
+            "record_date": "2025-01-08",
+            "transaction_today_amt": 132273
+        },
+        {
+            "record_date": "2025-01-09",
+            "transaction_today_amt": 1026570
+        },
+        {
+            "record_date": "2025-01-10",
+            "transaction_today_amt": 52317
+        },
+        {
+            "record_date": "2025-01-13",
+            "transaction_today_amt": 122989
+        },
+        {
+            "record_date": "2025-01-14",
+            "transaction_today_amt": 1068392
+        },
+        {
+            "record_date": "2025-01-15",
+            "transaction_today_amt": 878838
+        },
+        {
+            "record_date": "2025-01-16",
+            "transaction_today_amt": 1079640
+        },
+        {
+            "record_date": "2025-01-17",
+            "transaction_today_amt": 77587
+        },
+        {
+            "record_date": "2025-01-21",
+            "transaction_today_amt": 1087272
+        },
+        {
+            "record_date": "2025-01-22",
+            "transaction_today_amt": 147358
+        },
+        {
+            "record_date": "2025-01-23",
+            "transaction_today_amt": 1399286
+        },
+        {
+            "record_date": "2025-01-24",
+            "transaction_today_amt": 83400
+        },
+        {
+            "record_date": "2025-01-27",
+            "transaction_today_amt": 111403
+        },
+        {
+            "record_date": "2025-01-28",
+            "transaction_today_amt": 1024525
+        },
+        {
+            "record_date": "2025-01-29",
+            "transaction_today_amt": 99925
+        },
+        {
+            "record_date": "2025-01-30",
+            "transaction_today_amt": 1048779
+        },
+        {
+            "record_date": "2025-01-31",
+            "transaction_today_amt": 1211632
+        },
+        {
+            "record_date": "2025-02-03",
+            "transaction_today_amt": 250292
+        },
+        {
+            "record_date": "2025-02-04",
+            "transaction_today_amt": 1046917
+        },
+        {
+            "record_date": "2025-02-05",
+            "transaction_today_amt": 73540
+        },
+        {
+            "record_date": "2025-02-06",
+            "transaction_today_amt": 1021065
+        },
+        {
+            "record_date": "2025-02-07",
+            "transaction_today_amt": 66792
+        },
+        {
+            "record_date": "2025-02-10",
+            "transaction_today_amt": 99495
+        },
+        {
+            "record_date": "2025-02-11",
+            "transaction_today_amt": 1043842
+        },
+        {
+            "record_date": "2025-02-12",
+            "transaction_today_amt": 136003
+        },
+        {
+            "record_date": "2025-02-13",
+            "transaction_today_amt": 1048920
+        },
+        {
+            "record_date": "2025-02-14",
+            "transaction_today_amt": 90965
+        },
+        {
+            "record_date": "2025-02-18",
+            "transaction_today_amt": 1902444
+        },
+        {
+            "record_date": "2025-02-19",
+            "transaction_today_amt": 123669
+        },
+        {
+            "record_date": "2025-02-20",
+            "transaction_today_amt": 1275079
+        },
+        {
+            "record_date": "2025-02-21",
+            "transaction_today_amt": 90301
+        },
+        {
+            "record_date": "2025-02-24",
+            "transaction_today_amt": 150833
+        },
+        {
+            "record_date": "2025-02-25",
+            "transaction_today_amt": 1152896
+        },
+        {
+            "record_date": "2025-02-26",
+            "transaction_today_amt": 192226
+        },
+        {
+            "record_date": "2025-02-27",
+            "transaction_today_amt": 1019247
+        },
+        {
+            "record_date": "2025-02-28",
+            "transaction_today_amt": 1080559
+        },
+        {
+            "record_date": "2025-03-03",
+            "transaction_today_amt": 264230
+        },
+        {
+            "record_date": "2025-03-04",
+            "transaction_today_amt": 1001824
+        },
+        {
+            "record_date": "2025-03-05",
+            "transaction_today_amt": 109854
+        },
+        {
+            "record_date": "2025-03-06",
+            "transaction_today_amt": 1055657
+        },
+        {
+            "record_date": "2025-03-07",
+            "transaction_today_amt": 84826
+        },
+        {
+            "record_date": "2025-03-10",
+            "transaction_today_amt": 128502
+        },
+        {
+            "record_date": "2025-03-11",
+            "transaction_today_amt": 992559
+        },
+        {
+            "record_date": "2025-03-12",
+            "transaction_today_amt": 186824
+        },
+        {
+            "record_date": "2025-03-13",
+            "transaction_today_amt": 988527
+        },
+        {
+            "record_date": "2025-03-14",
+            "transaction_today_amt": 115838
+        },
+        {
+            "record_date": "2025-03-17",
+            "transaction_today_amt": 563195
+        },
+        {
+            "record_date": "2025-03-18",
+            "transaction_today_amt": 1063149
+        },
+        {
+            "record_date": "2025-03-19",
+            "transaction_today_amt": 150070
+        },
+        {
+            "record_date": "2025-03-20",
+            "transaction_today_amt": 1146995
+        },
+        {
+            "record_date": "2025-03-21",
+            "transaction_today_amt": 104533
+        },
+        {
+            "record_date": "2025-03-24",
+            "transaction_today_amt": 115375
+        },
+        {
+            "record_date": "2025-03-25",
+            "transaction_today_amt": 968076
+        },
+        {
+            "record_date": "2025-03-26",
+            "transaction_today_amt": 146260
+        },
+        {
+            "record_date": "2025-03-27",
+            "transaction_today_amt": 978912
+        },
+        {
+            "record_date": "2025-03-28",
+            "transaction_today_amt": 163072
+        },
+        {
+            "record_date": "2025-03-31",
+            "transaction_today_amt": 842112
+        },
+        {
+            "record_date": "2025-04-01",
+            "transaction_today_amt": 1212965
+        },
+        {
+            "record_date": "2025-04-02",
+            "transaction_today_amt": 104899
+        },
+        {
+            "record_date": "2025-04-03",
+            "transaction_today_amt": 1165967
+        },
+        {
+            "record_date": "2025-04-04",
+            "transaction_today_amt": 88388
+        },
+        {
+            "record_date": "2025-04-07",
+            "transaction_today_amt": 103193
+        },
+        {
+            "record_date": "2025-04-08",
+            "transaction_today_amt": 1080089
+        },
+        {
+            "record_date": "2025-04-09",
+            "transaction_today_amt": 168353
+        },
+        {
+            "record_date": "2025-04-10",
+            "transaction_today_amt": 1044918
+        },
+        {
+            "record_date": "2025-04-11",
+            "transaction_today_amt": 169822
+        },
+        {
+            "record_date": "2025-04-14",
+            "transaction_today_amt": 251409
+        },
+        {
+            "record_date": "2025-04-15",
+            "transaction_today_amt": 1828379
+        },
+        {
+            "record_date": "2025-04-16",
+            "transaction_today_amt": 282755
+        },
+        {
+            "record_date": "2025-04-17",
+            "transaction_today_amt": 1376594
+        },
+        {
+            "record_date": "2025-04-18",
+            "transaction_today_amt": 99231
+        },
+        {
+            "record_date": "2025-04-21",
+            "transaction_today_amt": 146150
+        },
+        {
+            "record_date": "2025-04-22",
+            "transaction_today_amt": 1140000
+        },
+        {
+            "record_date": "2025-04-23",
+            "transaction_today_amt": 191329
+        },
+        {
+            "record_date": "2025-04-24",
+            "transaction_today_amt": 1007312
+        },
+        {
+            "record_date": "2025-04-25",
+            "transaction_today_amt": 97618
+        },
+        {
+            "record_date": "2025-04-28",
+            "transaction_today_amt": 132820
+        },
+        {
+            "record_date": "2025-04-29",
+            "transaction_today_amt": 980592
+        },
+        {
+            "record_date": "2025-04-30",
+            "transaction_today_amt": 1109036
+        },
+        {
+            "record_date": "2025-05-01",
+            "transaction_today_amt": 1282607
+        },
+        {
+            "record_date": "2025-05-02",
+            "transaction_today_amt": 130079
+        },
+        {
+            "record_date": "2025-05-05",
+            "transaction_today_amt": 101390
+        },
+        {
+            "record_date": "2025-05-06",
+            "transaction_today_amt": 956876
+        },
+        {
+            "record_date": "2025-05-07",
+            "transaction_today_amt": 95379
+        },
+        {
+            "record_date": "2025-05-08",
+            "transaction_today_amt": 987235
+        },
+        {
+            "record_date": "2025-05-09",
+            "transaction_today_amt": 72915
+        },
+        {
+            "record_date": "2025-05-12",
+            "transaction_today_amt": 108730
+        },
+        {
+            "record_date": "2025-05-13",
+            "transaction_today_amt": 1021228
+        },
+        {
+            "record_date": "2025-05-14",
+            "transaction_today_amt": 134063
+        },
+        {
+            "record_date": "2025-05-15",
+            "transaction_today_amt": 2018376
+        },
+        {
+            "record_date": "2025-05-16",
+            "transaction_today_amt": 95115
+        },
+        {
+            "record_date": "2025-05-19",
+            "transaction_today_amt": 98469
+        },
+        {
+            "record_date": "2025-05-20",
+            "transaction_today_amt": 956281
+        },
+        {
+            "record_date": "2025-05-21",
+            "transaction_today_amt": 151745
+        },
+        {
+            "record_date": "2025-05-22",
+            "transaction_today_amt": 1016064
+        },
+        {
+            "record_date": "2025-05-23",
+            "transaction_today_amt": 74565
+        },
+        {
+            "record_date": "2025-05-27",
+            "transaction_today_amt": 1011011
+        },
+        {
+            "record_date": "2025-05-28",
+            "transaction_today_amt": 127206
+        },
+        {
+            "record_date": "2025-05-29",
+            "transaction_today_amt": 1040738
+        },
+        {
+            "record_date": "2025-05-30",
+            "transaction_today_amt": 354262
+        },
+        {
+            "record_date": "2025-06-02",
+            "transaction_today_amt": 934402
+        },
+        {
+            "record_date": "2025-06-03",
+            "transaction_today_amt": 976007
+        },
+        {
+            "record_date": "2025-06-04",
+            "transaction_today_amt": 92587
+        },
+        {
+            "record_date": "2025-06-05",
+            "transaction_today_amt": 918839
+        },
+        {
+            "record_date": "2025-06-06",
+            "transaction_today_amt": 77660
+        },
+        {
+            "record_date": "2025-06-09",
+            "transaction_today_amt": 105322
+        },
+        {
+            "record_date": "2025-06-10",
+            "transaction_today_amt": 896533
+        },
+        {
+            "record_date": "2025-06-11",
+            "transaction_today_amt": 174354
+        },
+        {
+            "record_date": "2025-06-12",
+            "transaction_today_amt": 1139031
+        },
+        {
+            "record_date": "2025-06-13",
+            "transaction_today_amt": 144931
+        },
+        {
+            "record_date": "2025-06-16",
+            "transaction_today_amt": 613982
+        },
+        {
+            "record_date": "2025-06-17",
+            "transaction_today_amt": 900101
+        },
+        {
+            "record_date": "2025-06-18",
+            "transaction_today_amt": 169043
+        },
+        {
+            "record_date": "2025-06-20",
+            "transaction_today_amt": 950533
+        },
+        {
+            "record_date": "2025-06-23",
+            "transaction_today_amt": 133564
+        },
+        {
+            "record_date": "2025-06-24",
+            "transaction_today_amt": 939731
+        },
+        {
+            "record_date": "2025-06-25",
+            "transaction_today_amt": 146096
+        },
+        {
+            "record_date": "2025-06-26",
+            "transaction_today_amt": 936934
+        },
+        {
+            "record_date": "2025-06-27",
+            "transaction_today_amt": 134913
+        },
+        {
+            "record_date": "2025-06-30",
+            "transaction_today_amt": 893211
+        },
+        {
+            "record_date": "2025-07-01",
+            "transaction_today_amt": 1240965
+        },
+        {
+            "record_date": "2025-07-02",
+            "transaction_today_amt": 80206
+        },
+        {
+            "record_date": "2025-07-03",
+            "transaction_today_amt": 1017850
+        },
+        {
+            "record_date": "2025-07-07",
+            "transaction_today_amt": 116163
+        },
+        {
+            "record_date": "2025-07-08",
+            "transaction_today_amt": 930562
+        },
+        {
+            "record_date": "2025-07-09",
+            "transaction_today_amt": 128821
+        },
+        {
+            "record_date": "2025-07-10",
+            "transaction_today_amt": 1152708
+        },
+        {
+            "record_date": "2025-07-11",
+            "transaction_today_amt": 73616
+        },
+        {
+            "record_date": "2025-07-14",
+            "transaction_today_amt": 91025
+        },
+        {
+            "record_date": "2025-07-15",
+            "transaction_today_amt": 1430052
+        },
+        {
+            "record_date": "2025-07-16",
+            "transaction_today_amt": 151058
+        },
+        {
+            "record_date": "2025-07-17",
+            "transaction_today_amt": 960335
+        },
+        {
+            "record_date": "2025-07-18",
+            "transaction_today_amt": 73617
+        },
+        {
+            "record_date": "2025-07-21",
+            "transaction_today_amt": 118919
+        },
+        {
+            "record_date": "2025-07-22",
+            "transaction_today_amt": 934439
+        },
+        {
+            "record_date": "2025-07-23",
+            "transaction_today_amt": 163671
+        },
+        {
+            "record_date": "2025-07-24",
+            "transaction_today_amt": 971794
+        },
+        {
+            "record_date": "2025-07-25",
+            "transaction_today_amt": 57390
+        },
+        {
+            "record_date": "2025-07-28",
+            "transaction_today_amt": 94105
+        },
+        {
+            "record_date": "2025-07-29",
+            "transaction_today_amt": 932463
+        },
+        {
+            "record_date": "2025-07-30",
+            "transaction_today_amt": 63061
+        },
+        {
+            "record_date": "2025-07-31",
+            "transaction_today_amt": 1957224
+        },
+        {
+            "record_date": "2025-08-01",
+            "transaction_today_amt": 385909
+        },
+        {
+            "record_date": "2025-08-04",
+            "transaction_today_amt": 105594
+        },
+        {
+            "record_date": "2025-08-05",
+            "transaction_today_amt": 908243
+        },
+        {
+            "record_date": "2025-08-06",
+            "transaction_today_amt": 71386
+        },
+        {
+            "record_date": "2025-08-07",
+            "transaction_today_amt": 1191543
+        },
+        {
+            "record_date": "2025-08-08",
+            "transaction_today_amt": 60379
+        },
+        {
+            "record_date": "2025-08-11",
+            "transaction_today_amt": 88488
+        },
+        {
+            "record_date": "2025-08-12",
+            "transaction_today_amt": 966911
+        },
+        {
+            "record_date": "2025-08-13",
+            "transaction_today_amt": 126229
+        },
+        {
+            "record_date": "2025-08-14",
+            "transaction_today_amt": 998828
+        },
+        {
+            "record_date": "2025-08-15",
+            "transaction_today_amt": 854398
+        },
+        {
+            "record_date": "2025-08-18",
+            "transaction_today_amt": 122716
+        },
+        {
+            "record_date": "2025-08-19",
+            "transaction_today_amt": 988426
+        },
+        {
+            "record_date": "2025-08-20",
+            "transaction_today_amt": 160971
+        },
+        {
+            "record_date": "2025-08-21",
+            "transaction_today_amt": 981258
+        },
+        {
+            "record_date": "2025-08-22",
+            "transaction_today_amt": 102777
+        },
+        {
+            "record_date": "2025-08-25",
+            "transaction_today_amt": 96504
+        },
+        {
+            "record_date": "2025-08-26",
+            "transaction_today_amt": 984922
+        },
+        {
+            "record_date": "2025-08-27",
+            "transaction_today_amt": 151158
+        },
+        {
+            "record_date": "2025-08-28",
+            "transaction_today_amt": 1009501
+        },
+        {
+            "record_date": "2025-08-29",
+            "transaction_today_amt": 332168
+        },
+        {
+            "record_date": "2025-09-02",
+            "transaction_today_amt": 1859812
+        },
+        {
+            "record_date": "2025-09-03",
+            "transaction_today_amt": 113974
+        },
+        {
+            "record_date": "2025-09-04",
+            "transaction_today_amt": 1234594
+        },
+        {
+            "record_date": "2025-09-05",
+            "transaction_today_amt": 66177
+        },
+        {
+            "record_date": "2025-09-08",
+            "transaction_today_amt": 101424
+        },
+        {
+            "record_date": "2025-09-09",
+            "transaction_today_amt": 1044168
+        },
+        {
+            "record_date": "2025-09-10",
+            "transaction_today_amt": 149436
+        },
+        {
+            "record_date": "2025-09-11",
+            "transaction_today_amt": 1053978
+        },
+        {
+            "record_date": "2025-09-12",
+            "transaction_today_amt": 136819
+        },
+        {
+            "record_date": "2025-09-15",
+            "transaction_today_amt": 588254
+        },
+        {
+            "record_date": "2025-09-16",
+            "transaction_today_amt": 1234446
+        },
+        {
+            "record_date": "2025-09-17",
+            "transaction_today_amt": 159704
+        },
+        {
+            "record_date": "2025-09-18",
+            "transaction_today_amt": 1046993
+        },
+        {
+            "record_date": "2025-09-19",
+            "transaction_today_amt": 77409
+        },
+        {
+            "record_date": "2025-09-22",
+            "transaction_today_amt": 141498
+        },
+        {
+            "record_date": "2025-09-23",
+            "transaction_today_amt": 1249572
+        },
+        {
+            "record_date": "2025-09-24",
+            "transaction_today_amt": 154743
+        },
+        {
+            "record_date": "2025-09-25",
+            "transaction_today_amt": 1062164
+        },
+        {
+            "record_date": "2025-09-26",
+            "transaction_today_amt": 148201
+        },
+        {
+            "record_date": "2025-09-29",
+            "transaction_today_amt": 121543
+        },
+        {
+            "record_date": "2025-09-30",
+            "transaction_today_amt": 1873783
+        },
+        {
+            "record_date": "2025-10-01",
+            "transaction_today_amt": 305802
+        },
+        {
+            "record_date": "2025-10-02",
+            "transaction_today_amt": 1279448
+        },
+        {
+            "record_date": "2025-10-03",
+            "transaction_today_amt": 119898
+        },
+        {
+            "record_date": "2025-10-06",
+            "transaction_today_amt": 89702
+        },
+        {
+            "record_date": "2025-10-07",
+            "transaction_today_amt": 1093072
+        },
+        {
+            "record_date": "2025-10-08",
+            "transaction_today_amt": 140839
+        },
+        {
+            "record_date": "2025-10-09",
+            "transaction_today_amt": 1077575
+        },
+        {
+            "record_date": "2025-10-10",
+            "transaction_today_amt": 79457
+        },
+        {
+            "record_date": "2025-10-14",
+            "transaction_today_amt": 1183305
+        },
+        {
+            "record_date": "2025-10-15",
+            "transaction_today_amt": 610012
+        },
+        {
+            "record_date": "2025-10-16",
+            "transaction_today_amt": 1151213
+        },
+        {
+            "record_date": "2025-10-17",
+            "transaction_today_amt": 68252
+        },
+        {
+            "record_date": "2025-10-20",
+            "transaction_today_amt": 119923
+        },
+        {
+            "record_date": "2025-10-21",
+            "transaction_today_amt": 1110002
+        },
+        {
+            "record_date": "2025-10-22",
+            "transaction_today_amt": 147757
+        },
+        {
+            "record_date": "2025-10-23",
+            "transaction_today_amt": 1133079
+        },
+        {
+            "record_date": "2025-10-24",
+            "transaction_today_amt": 65957
+        },
+        {
+            "record_date": "2025-10-27",
+            "transaction_today_amt": 96860
+        },
+        {
+            "record_date": "2025-10-28",
+            "transaction_today_amt": 1113729
+        },
+        {
+            "record_date": "2025-10-29",
+            "transaction_today_amt": 84597
+        },
+        {
+            "record_date": "2025-10-30",
+            "transaction_today_amt": 1304243
+        },
+        {
+            "record_date": "2025-10-31",
+            "transaction_today_amt": 1306774
+        },
+        {
+            "record_date": "2025-11-03",
+            "transaction_today_amt": 223617
+        },
+        {
+            "record_date": "2025-11-04",
+            "transaction_today_amt": 1140101
+        },
+        {
+            "record_date": "2025-11-05",
+            "transaction_today_amt": 79639
+        },
+        {
+            "record_date": "2025-11-06",
+            "transaction_today_amt": 1093835
+        },
+        {
+            "record_date": "2025-11-07",
+            "transaction_today_amt": 66555
+        },
+        {
+            "record_date": "2025-11-10",
+            "transaction_today_amt": 99727
+        },
+        {
+            "record_date": "2025-11-12",
+            "transaction_today_amt": 1220134
+        },
+        {
+            "record_date": "2025-11-13",
+            "transaction_today_amt": 1138771
+        },
+        {
+            "record_date": "2025-11-14",
+            "transaction_today_amt": 87529
+        },
+        {
+            "record_date": "2025-11-17",
+            "transaction_today_amt": 824559
+        },
+        {
+            "record_date": "2025-11-18",
+            "transaction_today_amt": 1146824
+        },
+        {
+            "record_date": "2025-11-19",
+            "transaction_today_amt": 152209
+        },
+        {
+            "record_date": "2025-11-20",
+            "transaction_today_amt": 1124190
+        },
+        {
+            "record_date": "2025-11-21",
+            "transaction_today_amt": 98857
+        },
+        {
+            "record_date": "2025-11-24",
+            "transaction_today_amt": 107387
+        },
+        {
+            "record_date": "2025-11-25",
+            "transaction_today_amt": 1199070
+        },
+        {
+            "record_date": "2025-11-26",
+            "transaction_today_amt": 165345
+        },
+        {
+            "record_date": "2025-11-28",
+            "transaction_today_amt": 1407502
+        },
+        {
+            "record_date": "2025-12-01",
+            "transaction_today_amt": 1076770
+        },
+        {
+            "record_date": "2025-12-02",
+            "transaction_today_amt": 1119264
+        },
+        {
+            "record_date": "2025-12-03",
+            "transaction_today_amt": 131511
+        },
+        {
+            "record_date": "2025-12-04",
+            "transaction_today_amt": 1071981
+        },
+        {
+            "record_date": "2025-12-05",
+            "transaction_today_amt": 80084
+        },
+        {
+            "record_date": "2025-12-08",
+            "transaction_today_amt": 110813
+        },
+        {
+            "record_date": "2025-12-09",
+            "transaction_today_amt": 1106568
+        },
+        {
+            "record_date": "2025-12-10",
+            "transaction_today_amt": 148787
+        },
+        {
+            "record_date": "2025-12-11",
+            "transaction_today_amt": 1089237
+        },
+        {
+            "record_date": "2025-12-12",
+            "transaction_today_amt": 121911
+        },
+        {
+            "record_date": "2025-12-15",
+            "transaction_today_amt": 527011
+        },
+        {
+            "record_date": "2025-12-16",
+            "transaction_today_amt": 1122961
+        },
+        {
+            "record_date": "2025-12-17",
+            "transaction_today_amt": 142979
+        },
+        {
+            "record_date": "2025-12-18",
+            "transaction_today_amt": 1077559
+        },
+        {
+            "record_date": "2025-12-19",
+            "transaction_today_amt": 95047
+        },
+        {
+            "record_date": "2025-12-22",
+            "transaction_today_amt": 193529
+        },
+        {
+            "record_date": "2025-12-23",
+            "transaction_today_amt": 1088295
+        },
+        {
+            "record_date": "2025-12-24",
+            "transaction_today_amt": 148260
+        },
+        {
+            "record_date": "2025-12-26",
+            "transaction_today_amt": 1320930
+        },
+        {
+            "record_date": "2025-12-29",
+            "transaction_today_amt": 102208
+        },
+        {
+            "record_date": "2025-12-30",
+            "transaction_today_amt": 1088259
+        },
+        {
+            "record_date": "2025-12-31",
+            "transaction_today_amt": 1012582
+        },
+        {
+            "record_date": "2026-01-02",
+            "transaction_today_amt": 1379919
+        },
+        {
+            "record_date": "2026-01-05",
+            "transaction_today_amt": 108999
+        },
+        {
+            "record_date": "2026-01-06",
+            "transaction_today_amt": 1047728
+        },
+        {
+            "record_date": "2026-01-07",
+            "transaction_today_amt": 84346
+        },
+        {
+            "record_date": "2026-01-08",
+            "transaction_today_amt": 1075258
+        },
+        {
+            "record_date": "2026-01-09",
+            "transaction_today_amt": 73044
+        },
+        {
+            "record_date": "2026-01-12",
+            "transaction_today_amt": 117525
+        },
+        {
+            "record_date": "2026-01-13",
+            "transaction_today_amt": 1054294
+        },
+        {
+            "record_date": "2026-01-14",
+            "transaction_today_amt": 187833
+        },
+        {
+            "record_date": "2026-01-15",
+            "transaction_today_amt": 1796844
+        },
+        {
+            "record_date": "2026-01-16",
+            "transaction_today_amt": 132889
+        },
+        {
+            "record_date": "2026-01-20",
+            "transaction_today_amt": 1127787
+        },
+        {
+            "record_date": "2026-01-21",
+            "transaction_today_amt": 134892
+        },
+        {
+            "record_date": "2026-01-22",
+            "transaction_today_amt": 1347070
+        },
+        {
+            "record_date": "2026-01-23",
+            "transaction_today_amt": 85894
+        },
+        {
+            "record_date": "2026-01-26",
+            "transaction_today_amt": 150560
+        },
+        {
+            "record_date": "2026-01-27",
+            "transaction_today_amt": 1064735
+        },
+        {
+            "record_date": "2026-01-28",
+            "transaction_today_amt": 147433
+        },
+        {
+            "record_date": "2026-01-29",
+            "transaction_today_amt": 1097717
+        },
+        {
+            "record_date": "2026-01-30",
+            "transaction_today_amt": 324664
+        },
+        {
+            "record_date": "2026-02-02",
+            "transaction_today_amt": 1232492
+        },
+        {
+            "record_date": "2026-02-03",
+            "transaction_today_amt": 1127463
+        },
+        {
+            "record_date": "2026-02-04",
+            "transaction_today_amt": 75806
+        },
+        {
+            "record_date": "2026-02-05",
+            "transaction_today_amt": 1091690
+        },
+        {
+            "record_date": "2026-02-06",
+            "transaction_today_amt": 76963
+        },
+        {
+            "record_date": "2026-02-09",
+            "transaction_today_amt": 102140
+        },
+        {
+            "record_date": "2026-02-10",
+            "transaction_today_amt": 1080331
+        },
+        {
+            "record_date": "2026-02-11",
+            "transaction_today_amt": 155974
+        },
+        {
+            "record_date": "2026-02-12",
+            "transaction_today_amt": 1096219
+        },
+        {
+            "record_date": "2026-02-13",
+            "transaction_today_amt": 97576
+        },
+        {
+            "record_date": "2026-02-17",
+            "transaction_today_amt": 1954333
+        },
+        {
+            "record_date": "2026-02-18",
+            "transaction_today_amt": 134636
+        },
+        {
+            "record_date": "2026-02-19",
+            "transaction_today_amt": 1332074
+        },
+        {
+            "record_date": "2026-02-20",
+            "transaction_today_amt": 100635
+        },
+        {
+            "record_date": "2026-02-23",
+            "transaction_today_amt": 163632
+        },
+        {
+            "record_date": "2026-02-24",
+            "transaction_today_amt": 1184591
+        },
+        {
+            "record_date": "2026-02-25",
+            "transaction_today_amt": 209106
+        },
+        {
+            "record_date": "2026-02-26",
+            "transaction_today_amt": 1102299
+        },
+        {
+            "record_date": "2026-02-27",
+            "transaction_today_amt": 345928
+        },
+        {
+            "record_date": "2026-03-02",
+            "transaction_today_amt": 1044406
+        },
+        {
+            "record_date": "2026-03-03",
+            "transaction_today_amt": 1198481
+        },
+        {
+            "record_date": "2026-03-04",
+            "transaction_today_amt": 120742
+        },
+        {
+            "record_date": "2026-03-05",
+            "transaction_today_amt": 1106557
+        },
+        {
+            "record_date": "2026-03-06",
+            "transaction_today_amt": 86235
+        },
+        {
+            "record_date": "2026-03-09",
+            "transaction_today_amt": 128078
+        },
+        {
+            "record_date": "2026-03-10",
+            "transaction_today_amt": 1139831
+        },
+        {
+            "record_date": "2026-03-11",
+            "transaction_today_amt": 208598
+        },
+        {
+            "record_date": "2026-03-12",
+            "transaction_today_amt": 1137196
+        },
+        {
+            "record_date": "2026-03-13",
+            "transaction_today_amt": 120622
+        },
+        {
+            "record_date": "2026-03-16",
+            "transaction_today_amt": 520825
+        },
+        {
+            "record_date": "2026-03-17",
+            "transaction_today_amt": 1132126
+        },
+        {
+            "record_date": "2026-03-18",
+            "transaction_today_amt": 191477
+        },
+        {
+            "record_date": "2026-03-19",
+            "transaction_today_amt": 1327259
+        },
+        {
+            "record_date": "2026-03-20",
+            "transaction_today_amt": 95931
+        },
+        {
+            "record_date": "2026-03-23",
+            "transaction_today_amt": 148658
+        },
+        {
+            "record_date": "2026-03-24",
+            "transaction_today_amt": 1102931
+        },
+        {
+            "record_date": "2026-03-25",
+            "transaction_today_amt": 156150
+        },
+        {
+            "record_date": "2026-03-26",
+            "transaction_today_amt": 1104764
+        },
+        {
+            "record_date": "2026-03-27",
+            "transaction_today_amt": 140297
+        },
+        {
+            "record_date": "2026-03-30",
+            "transaction_today_amt": 127209
+        },
+        {
+            "record_date": "2026-03-31",
+            "transaction_today_amt": 1935575
+        },
+        {
+            "record_date": "2026-04-01",
+            "transaction_today_amt": 358813
+        },
+        {
+            "record_date": "2026-04-02",
+            "transaction_today_amt": 1148382
+        },
+        {
+            "record_date": "2026-04-03",
+            "transaction_today_amt": 129896
+        },
+        {
+            "record_date": "2026-04-06",
+            "transaction_today_amt": 107176
+        },
+        {
+            "record_date": "2026-04-07",
+            "transaction_today_amt": 1078598
+        },
+        {
+            "record_date": "2026-04-08",
+            "transaction_today_amt": 173690
+        },
+        {
+            "record_date": "2026-04-09",
+            "transaction_today_amt": 1118685
+        },
+        {
+            "record_date": "2026-04-10",
+            "transaction_today_amt": 141257
+        },
+        {
+            "record_date": "2026-04-13",
+            "transaction_today_amt": 192126
+        },
+        {
+            "record_date": "2026-04-14",
+            "transaction_today_amt": 1191022
+        },
+        {
+            "record_date": "2026-04-15",
+            "transaction_today_amt": 963620
+        },
+        {
+            "record_date": "2026-04-16",
+            "transaction_today_amt": 1433419
+        },
+        {
+            "record_date": "2026-04-17",
+            "transaction_today_amt": 195458
+        },
+        {
+            "record_date": "2026-04-20",
+            "transaction_today_amt": 151837
+        }
+    ]
+}
